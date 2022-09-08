@@ -1,5 +1,5 @@
 #Ejemplo de conexion SQLITE3 
-from multiprocessing import current_process
+
 import sqlite3
 
 def main():
